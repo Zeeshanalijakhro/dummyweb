@@ -1,0 +1,134 @@
+<b>Members First and Last Name</b>
+
+[text* your-name1 placeholder "Member 1"]
+
+[text* your-name2 placeholder "Member 2"]
+
+[text* your-name3 placeholder "Member 3"]
+
+[text* your-name4 placeholder "Member 4"]
+
+[text* your-name5 placeholder "Member 5"]
+
+[text* your-name6 placeholder "Member 6"]
+
+[text member-capitalcontribution placeholder "Amount of Capital from each member"
+
+[text* your-share placeholder "% of equity units each member has in their company"]
+
+<b>If you have more than Six Members, simply leave additional member information in the fields below.</b>
+
+[textarea Additional_Details "Additional Details"]
+
+<b>Company Information</b>
+
+[text* your-company-name placeholder "Company Name"] 
+
+[text your-city placeholder "City"]
+
+[text your-state placeholder "State"]
+
+[text your-zipcode placeholder "Zip Code"]
+
+<b>Date company was registered:</b>
+
+<div class="box">
+        <select class="one"><option>Day</option>
+<option>January</option>       
+    <option>February</option>       
+    <option>March</option>       
+    <option>April</option>       
+    <option>May</option>       
+    <option>June</option>       
+    <option>July</option>       
+    <option>August</option>       
+    <option>September</option>       
+    <option>October</option>       
+    <option>November</option>       
+    <option>December</option></select>&nbsp _ &nbsp 
+        <select class="two"><option>Month</option><option>1</option>       
+    <option>2</option>       
+    <option>3</option>       
+    <option>4</option>       
+    <option>5</option>       
+    <option>6</option>       
+    <option>7</option>       
+    <option>8</option>       
+    <option>9</option>       
+    <option>10</option>       
+    <option>11</option>       
+    <option>12</option>       
+    <option>13</option>       
+    <option>14</option>       
+    <option>15</option>       
+    <option>16</option>       
+    <option>17</option>       
+    <option>18</option>       
+    <option>19</option>       
+    <option>20</option>       
+    <option>21</option>       
+    <option>22</option>       
+    <option>23</option>       
+    <option>24</option>       
+    <option>25</option>       
+    <option>26</option>       
+    <option>27</option>       
+    <option>28</option>       
+    <option>29</option>       
+    <option>30</option>       
+    <option>31</option>     </select>&nbsp _ &nbsp 
+        <select class="three"><option>Year</option>
+<option>1990</option>
+<option>1991</option>
+<option>1992</option>
+<option>1993</option>
+<option>1994</option>
+<option>1995</option>
+<option>1996</option>
+<option>1997</option>
+<option>1998</option>
+<option>1999</option>
+<option>2000</option>
+<option>2001</option>
+<option>2002</option>
+<option>2003</option>
+<option>2004</option>
+<option>2005</option>
+<option>2006</option>
+<option>2007</option>
+<option>2008</option>
+<option>2009</option>       
+    <option>2010</option>       
+    <option>2011</option>       
+    <option>2012</option>       
+    <option>2013</option>       
+    <option>2014</option>       
+    <option>2015</option>       
+    <option>2016</option>       
+    <option>2017</option>       
+    <option>2018</option></select>
+      </div>
+
+[text total-capitalcontribution placeholder "Amount of Total contribution"]
+
+<br/>
+<b>Terms and Conditions </b>
+Members are allocated ownership of the investment club profits and loses base on each induvial member equityunits in their company.  (initially Ownership Units comes with a per set cost like a stock IPO. Base on size of club company’s ownership Unit or limited per Member). Members may wish to contribute to their investment accounts initially upon formation or alater date. The Members are investors in the Company and are entitled to participate in voting on investment decisions, but not the day-to-day operations of the Company, as such operations are conducted by Joff Capital LLC Managers.
+
+Joff Capital LLC will issue all Members an authorize general account for the day-to-day operations of the Company and account(s) for deposit of funds for the investments of the Members. Members may wish to deposit into their investment accounts initially upon formation. If members would like to add to fund they must buy ownership unit from another member are join a new investment club group with us.
+
+Joff Capital Investment Club’s LLC can have as few as one Member to start with or as many as 10, but no more than 10 Members per investment club. The Members of the LLC become owners of the investment club by putting capital intothe company (making a “Capital Contribution”) into the Company in exchange for Ownership Units. 
+
+example, one founding Member may be issued an Ownership Unit and thus be the sole owner with a 100% Membership interest. Later, 3 additional Members may join the Investment Club LLC so that each has 1 Ownership Unit, and each has a 25% Membership interest in the Investment Club LLC. If the Investment Club LLC expands to 10 Members, each would have a 10% Membership interest.
+
+Ownership Units will entitle a Member to an allocation of profits and losses of the Company related to the investment club. Initially Ownership Units are based on the valuation of each person first capital contributionto the investment club portfolio. Ownership Unit % is the amount you will receives in returns each quarter from your investment club. There is a limit of 1 ownership Unit per member no max. If a member is interested in inquiring more units to increase their investment he or she must buy them directly form one of its club members.
+
+[submit "SUBMIT APPLICATION"]
+
+
+
+
+
+
+[vc_row css_animation="" row_type="row" use_row_as_full_screen_section="no" type="grid" angled_section="no" text_align="left" background_image_as_pattern="without_pattern"
+css=".vc_custom_1516205830725{padding-top: 51px !important;padding-bottom: 51px !important;}" z_index=""][vc_column][vc_column_text]<img class="alignnone wp-image-520" size-full" src="https://joffcapital.com/wp/wp-content/uploads/2018/02/header03.jpg" alt="header03" width="332" height="85" />
